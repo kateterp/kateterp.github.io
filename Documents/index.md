@@ -13,4 +13,3 @@ Documentation:
 ![Photo of Palm Trees](IMG_0874.JPG)
 
 
-[back to main page](kateterp.github.io/index.md)
