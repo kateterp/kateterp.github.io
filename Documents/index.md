@@ -6,8 +6,11 @@ Katherine Campana
 
 Documentation:
 
--[Jupyter Notebook](githubnotebook.ipynb)
+- [Jupyter Notebook](githubnotebook.ipynb)
 
--[HTML of Jupyter Notebook](githubnotebook.html)
+- [HTML of Jupyter Notebook](githubnotebook.html)
 
--![Photo of Palm Trees](IMG_0874.JPG)
+![Photo of Palm Trees](IMG_0874.JPG)
+
+
+[back to main page](index.md)
