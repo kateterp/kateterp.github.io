@@ -1,5 +1,5 @@
 ---
-layout: default
+BUAD 5112 Module 3
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
